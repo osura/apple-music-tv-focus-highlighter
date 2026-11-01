@@ -9,6 +9,16 @@ Focus Highlighter is a small accessibility service that makes the phone app
 usable with only a D-pad remote. It is active only while Apple Music is in the
 foreground and does nothing in other apps.
 
+## Screenshots
+
+| Songs | Albums | Album | Search |
+|---|---|---|---|
+| ![Song list with the selected row outlined](docs/screenshots/songs.jpg) | ![Album grid with the New tab selected](docs/screenshots/album-grid.jpg) | ![Album page with the Play button selected](docs/screenshots/album.jpg) | ![Search results with the Artists filter selected](docs/screenshots/search-results.jpg) |
+
+Typing a search with the remote — the keyboard's Enter key submits it:
+
+<img src="docs/screenshots/search-keyboard.jpg" width="300" alt="Search mode with suggestions and the on-screen keyboard">
+
 ## Features
 
 - **Clear selection outline** — a white rounded box with a soft grey rim around
