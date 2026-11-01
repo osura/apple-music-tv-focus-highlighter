@@ -82,6 +82,13 @@ TV=<tv-ip>:5555 ./test.sh state                    # what's selected
 TV=<tv-ip>:5555 ./test.sh shot screen.png          # screenshot
 ```
 
+## Alternatives
+
+- [AMTV](https://github.com/megarohas/apple-music-android-tv) — a separate,
+  remote-first TV app built on Apple's web player. Nicer TV-style interface, but
+  the web player streams standard AAC (no Lossless or Dolby Atmos). Focus
+  Highlighter keeps the official app, so Lossless and Atmos still work.
+
 ## Notes
 
 - Most TVs have no touchscreen, so accessibility gestures (taps/swipes) are
