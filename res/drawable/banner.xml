@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 320x180 home-screen banner: red-pink gradient with a white music note. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="320dp" android:height="180dp"
+    android:viewportWidth="320" android:viewportHeight="180">
+    <path android:pathData="M0,0h320v180h-320z">
+        <aapt:attr name="android:fillColor">
+            <gradient android:type="linear"
+                android:startX="0" android:startY="0" android:endX="320" android:endY="180"
+                android:startColor="#FFFA586A" android:endColor="#FFFB233B" />
+        </aapt:attr>
+    </path>
+    <!-- Beamed eighth notes -->
+    <path android:fillColor="#FFFFFFFF"
+        android:pathData="M132,52 L196,40 L196,112 A14,11 0 1,1 186,101 L186,64 L142,72 L142,124 A14,11 0 1,1 132,113 Z" />
+</vector>

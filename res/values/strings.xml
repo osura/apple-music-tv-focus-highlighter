@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Focus Highlighter</string>
+    <string name="service_desc">Draws a bright outline around the item selected with the remote, only while Apple Music is open. Left/Right pick single tiles in rows, holding Back jumps to the tab bar, and OK on a text box opens the keyboard. It does not collect, store or send any data.</string>
+</resources>
